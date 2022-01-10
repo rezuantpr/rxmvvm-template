@@ -49,7 +49,6 @@ final class ___VARIABLE_productName:identifier___ViewController: ViewController 
   }
 }
 
-
 extension ___VARIABLE_productName:identifier___ViewController: UITableViewDelegate {
 	fileprivate typealias ___VARIABLE_productName:identifier___DataSource = RxTableViewSectionedReloadDataSource<___VARIABLE_productName:identifier___Section>
 
